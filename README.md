@@ -1,6 +1,6 @@
 - Hi, I’m Luis Mora 👋 
 - I’m interested in mobile development 📱 🧑🏽‍💻
-- I’m currently learning iOS and web development while working on my bachelor's in CS 🤓
+- I’m currently learning iOS and web development while working on my bachelors in CS 🤓
 - Connect with me on LinkedIn! 📫  https://www.linkedin.com/in/moraluis/  
 
 <!---
