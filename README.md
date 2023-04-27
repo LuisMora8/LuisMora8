@@ -1,5 +1,5 @@
 - Hi, I’m Luis 👋 
-- I’m looking to make fun or inspiring apps. Web, desktop or mobile. 📱 🧑🏽‍💻
+- I’m looking to make fun and inspiring apps. Web, desktop or mobile. 📱 🧑🏽‍💻
 - Lets collab and connect on LinkedIn! 📫  https://www.linkedin.com/in/moraluis/  
 
 <!---
